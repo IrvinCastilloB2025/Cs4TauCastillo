@@ -25,6 +25,9 @@ public class Q1Ex2 {
         */
         
         StartingScreen();
+        String Input = " ";
+        Input(Input);
+        System.out.print(Input);
     }
     //step 1: starting screen
     static void StartingScreen(){
@@ -41,4 +44,3 @@ public class Q1Ex2 {
         return Input;
     }
 }
-
